@@ -6,5 +6,8 @@ void main()
     printf("the subtraction: %d",c);
     c=a+b;
     printf("the addition: %d",c);
+    c=a*b;
+    printf("the multiplicaton: %d",c);
+    
 
 }
